@@ -76,5 +76,8 @@
     },
     "suggest": {
         "igniterlabs/ti-ext-importexport": "For importing and exporting menu items."
+    },
+    "replace": {
+        "tastyigniter/ti-ext-local": "*"
     }
 }
