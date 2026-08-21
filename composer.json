@@ -9,10 +9,10 @@
         }
     ],
     "require": {
-        "techidev/tastyignitercore": "*",
-        "techidev/tastyigniterextautomation": "*",
-        "techidev/tastyigniterextcart": "*",
-        "techidev/tastyigniterextreservation": "*"
+        "techidev/tastyignitercore": "dev-main",
+        "techidev/tastyigniterextautomation": "dev-main",
+        "techidev/tastyigniterextcart": "dev-main",
+        "techidev/tastyigniterextreservation": "dev-main"
     },
     "require-dev": {
         "igniterlabs/ti-ext-importexport": "v4.x-dev",
